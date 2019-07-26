@@ -1,0 +1,28 @@
+.container {
+  width: 50%;
+  background-color: #d3d3d3;
+  text-align: center;
+}
+
+.button {
+  position: relative;
+  background-color: #d5d;
+  min-width: 50%;
+  font-size: 40px;
+  display: inline-block;
+  text-align: center;
+  color: #ffffff;
+  cursor: pointer;
+  user-select: none;
+}
+.button:hover {
+  background: #47cf73;
+}
+
+.display {
+  position: relative;
+  font-size: 80px;
+  font-weight: bolder;
+  display: inline;
+  text-align: center;
+}

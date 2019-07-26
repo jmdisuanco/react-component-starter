@@ -1,0 +1,9 @@
+.storybook
+node_modules
+public
+scripts
+stories
+package-lock.json
+tailwind.config.json
+docs
+scripts
