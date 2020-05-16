@@ -1,6 +1,6 @@
 {
   "name": "jm-starter-component",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [
@@ -9,8 +9,7 @@
   ],
   "dependencies": {
     "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-dom": "^16.8.6"
   },
   "scripts": {
     "build": "./scripts/build.sh",
@@ -28,22 +27,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jmdisuanco/jm-starter-component"
+    "url": "https://github.com/jmdisuanco/REPONAM"
   },
-  "keywords": [
-    "animejs",
-    "anime",
-    "react-anime",
-    "react-animejs",
-    "animation",
-    "jm-react-anime",
-    "tween",
-    "timeline",
-    "keyframe",
-    "motion",
-    "animate"
-  ],
-  "homepage": "https://jmdisuanco.github.io/jm-react-anime",
+  "keywords": ["key","words"],
+  "homepage": "https://jmdisuanco.github.io/REPONAME",
   "eslintConfig": {
     "extends": "react-app"
   },
@@ -68,6 +55,7 @@
     "@storybook/addon-storysource": "^5.1.9",
     "@storybook/addons": "^5.1.9",
     "@storybook/react": "^5.1.9",
-    "@storybook/storybook-deployer": "^2.8.1"
+    "@storybook/storybook-deployer": "^2.8.1",
+    "react-scripts": "^3.4.1"
   }
 }
